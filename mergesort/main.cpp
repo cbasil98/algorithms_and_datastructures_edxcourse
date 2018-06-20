@@ -1,6 +1,8 @@
 #include <iostream>
 
 using namespace std;
+void mergesort(int &,int,int);
+void Merge(int &,int,int,int);
 
 int main()
 {
